@@ -1,9 +1,9 @@
-import { useState } from 'react'
+
 import './App.css'
 import InstaProfileCard from './components/card'
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-purple-900 flex flex-col items-center justify-center p-6">
